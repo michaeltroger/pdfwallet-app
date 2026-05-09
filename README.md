@@ -9,7 +9,7 @@
 <a href="https://apps.apple.com/app/6767864357">
 <img src="images/appstore.png" alt="Download on the App Store" height=80>
 </a>
-<a href="https://play.google.com/store/apps/details">
+<a href="https://play.google.com/store/apps/details?id=com.michaeltroger.gruenerpass&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1">
 <img src="images/googleplay.png" alt="Get it on Google Play" height=80>
 </a>
 
