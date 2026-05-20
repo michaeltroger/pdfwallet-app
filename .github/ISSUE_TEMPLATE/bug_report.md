@@ -36,7 +36,7 @@ If applicable, add screenshots or a screen recording.
 ## 🧪 Environment
 
 ### macOS App
-- Device:
+- Device model:
 - OS version:
 - App version:
 
